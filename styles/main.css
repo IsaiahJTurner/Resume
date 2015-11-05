@@ -1199,6 +1199,14 @@ a {
 .standard-resume .sr-section.summary p {
   margin: 0 0 7px 0;
 }
+.standard-resume .sr-section.notes img {
+  width: 40px;
+  float: left;
+}
+.standard-resume .sr-section.notes img + p {
+  padding-left: 50px;
+  padding-top: 5px;
+}
 .standard-resume .secondary {
   color: #96999b;
   display: -webkit-box;
