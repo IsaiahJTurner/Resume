@@ -10,7 +10,7 @@ html {
 body {
   font-family: 'lft-etica', sans-serif;
   font-weight: 300;
-  color: #6B44FF;
+  color: #323336;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -904,7 +904,7 @@ a {
   width: 115px;
   height: 115px;
   border-radius: 50%;
-  border: 3px solid #33d399;
+  border: 3px solid #6B44FF;
 }
 .c-main-logo.editor > div {
   color: #fff;
